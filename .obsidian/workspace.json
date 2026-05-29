@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0423f5bc2c93adcf",
+        "id": "29b6cac13e469684",
         "type": "tabs",
         "children": [
           {
-            "id": "b0de1d6ecee92d5d",
+            "id": "f58c41240f58917b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "LEKYBA/paraphrase/Neural Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
-            }
-          },
-          {
-            "id": "2bde3c594ef73183",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Index"
-            }
-          },
-          {
-            "id": "24e9128534d3a67f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Le Ky Ba.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Le Ky Ba"
+              "title": "Neural Network"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 499.5
   },
   "right": {
     "id": "7052e8368d9b96ed",
@@ -117,39 +88,6 @@
         "id": "3c646789a5b9c962",
         "type": "tabs",
         "children": [
-          {
-            "id": "b9bed47dc823f784",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Le Ky Ba.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Le Ky Ba"
-            }
-          },
-          {
-            "id": "5613eb8043e868f2",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Le Ky Ba.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Le Ky Ba"
-            }
-          },
           {
             "id": "fafc1c972745b377",
             "type": "leaf",
@@ -193,13 +131,45 @@
               "icon": "lucide-list",
               "title": "Outline of Le Ky Ba"
             }
+          },
+          {
+            "id": "6011d791b41c7232",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LEKYBA/paraphrase/Neural Network.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Neural Network"
+            }
+          },
+          {
+            "id": "44ddf967426e8cca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,13 +182,49 @@
       "bases:Create new base": false
     }
   },
-  "active": "24e9128534d3a67f",
+  "active": "f58c41240f58917b",
   "lastOpenFiles": [
-    "Tran Hoang Xuan Nguyen.md",
-    "Vo Duc Tai.md",
-    "Le Ky Ba.md",
+    "LEKYBA/raw/Pasted image 20260527144023.png",
+    "LEKYBA/raw/Pasted image 20260529153559.png",
+    "LEKYBA/Context Engineering.md",
+    "Pasted image 20260529114154.png.md",
+    "LEKYBA/poc/Code example simulating how Gen AI generate text.md",
+    "XUANNGUYEN/nguyen-raw/Skills explained How Skills compares to prompts, Projects, MCP, and subagents.md",
+    "XUANNGUYEN/nguyen-raw/What are Agents, Skills, and Instructions.md",
+    "XUANNGUYEN/nguyen-raw/Prompt Engineering vs Context Engineering vs Harness Engineering What's the Difference in 2026.md",
+    "XUANNGUYEN/nguyen-raw/Instructions vs. Skills in AI Agents.md",
+    "XUANNGUYEN/nguyen-raw/Comprehensive Guide to AI Systems & Codebase Configurations.md",
+    "XUANNGUYEN/nguyen-raw/agent_instruction_skills_summary.md",
+    "XUANNGUYEN/nguyen-raw/AGENTS.md & SKILL.md The Complete Guide (2026).md",
+    "XUANNGUYEN/nguyen-raw/Agent - Skill - Instruc.md",
+    "XUANNGUYEN/img/Pasted image 20260526153921.png",
+    "XUANNGUYEN/finish/What is an AI assistant Definition from TechTarget.md",
+    "XUANNGUYEN/finish/What Is Agentic AI A Complete Guide for 2026.md",
+    "XUANNGUYEN/finish/Gen AI vs AI Agents vs Agentic AI.md",
+    "XUANNGUYEN/finish/Assistants vs. Agentic AI  OptimAI Network Blog.md",
+    "XUANNGUYEN/finish/AI Assistant Explained Complete Guide for 2026.md",
+    "XUANNGUYEN/finish/Agentic AI.md",
+    "XUANNGUYEN/nguyen-raw",
+    "XUANNGUYEN/img",
+    "XUANNGUYEN/finish",
+    "XUANNGUYEN/Agents, Instructions, Skills.md",
+    "XUANNGUYEN/Agentic AI vs Assistant AI.md",
+    "XUANNGUYEN",
+    "LEKYBA/paraphrase/Transformer.md",
+    "Agents, Instructions, Skills.md",
+    "Agentic AI vs Assistant AI.md",
+    "LEKYBA/poc/Code example simulating Context Engineering in Software Development.md",
+    "Pasted image 20260529114154.png",
+    "Pasted image 20260529114154 1.png",
+    "Pasted image 20260527144023.png",
     "Index.md",
-    "1. How AI Work.md",
-    "2. Context engineering.md"
+    "img/Pasted image 20260526153921.png",
+    "img",
+    "Untitled.md",
+    "Excalidraw",
+    "raw",
+    "LEKYBA/poc/tempCodeRunnerFile.py",
+    "LEKYBA/poc/word_generator.py",
+    "LEKYBA/poc"
   ]
 }
