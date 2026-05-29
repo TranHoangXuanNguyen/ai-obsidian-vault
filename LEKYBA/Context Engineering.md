@@ -3,7 +3,7 @@ Context engineering is the practice of deliberating designing, structuring and o
 It encompasses two techniques: Prompt Engineering and RAG.
 
 It's basically described by this image from [Dex Horthy](https://x.com/dexhorthy/status/1933283008863482067).
-![[Pasted image 20260529114154.png]]
+![[Pasted image 20260529153559.png]]
 
 ----
 # What is context in ML?
