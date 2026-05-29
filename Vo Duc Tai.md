@@ -1,5 +1,5 @@
-[[I. Prompt Engineering]]
-[[II. RAG (Retrieval Augmented Generation)]]
-[[III. MCP (Model Context Protocol)]]
+[[Prompt Engineering]]
+[[RAG (Retrieval Augmented Generation)]]
+[[MCP (Model Context Protocol)]]
 
 
