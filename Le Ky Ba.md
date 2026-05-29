@@ -1,5 +1,6 @@
-[[How AI work]]
+[[LEKYBA/How does AI work]]
 - What, Why appear, Con and Pros, How to work
 - Before/After AI appear
+
 [[Context Engineering]]
 

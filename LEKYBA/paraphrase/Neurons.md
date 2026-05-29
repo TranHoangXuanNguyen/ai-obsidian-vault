@@ -1,0 +1,1 @@
+Neurons in Machine learning is the basic units that receive inputs and each neuron is governed by a threshold and activation function.
