@@ -29,3 +29,20 @@ From studies on needle-in-a-haystack style benchmarking of Anthropic, they uncov
 6. **Tool and memory integration:** 
 
 *Reference: https://www.ibm.com/think/topics/context-engineering
+
+----
+# Example
+To understand clearer about Context Engineering beyond theory, I try to wrote a small python code simulating how to apply it in software development.
+[[Code example simulating Context Engineering in Software Development]]
+
+In the above example, I setup a small data with 3 regulations of a company. This information will be vectorized - which is the same with how AI integrated applications vectorize data and store them in a vector database. 
+The next step is vectorizing user input (request) and using `cosine similarity` to compare information to retrieve relevant data. The data then will be sent together with `System prompt` and  `User input`. 
+
+This example works well when I ask question about the provided data. Another good point is the rule `No hallucination` prevent model from returning unreal data. 
+
+
+> [!NOTE] My conclusion from the example code
+> The code above prove the efficiency of Context Engineering in enhance model's accuracy in answering question required specific knowledge. We can also enhance it more when we apply the rest steps: **Context sequencing**, **Tool and memory integration**
+>
+>One notable point I just found when testing the code: The RAG step (**Context compression**) might return unrelated information. This phenomenon called `Similarity Inflation`, however, it won't really affect the final result if we define the system prompt carefully.
+
