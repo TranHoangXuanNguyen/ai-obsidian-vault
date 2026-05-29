@@ -2,6 +2,9 @@
 Context engineering is the practice of deliberating designing, structuring and optimizing the context provided to LLMs to produce more accurate, relevant and reliable output.
 It encompasses two techniques: Prompt Engineering and RAG.
 
+It's basically described by this image from [Dex Horthy](https://x.com/dexhorthy/status/1933283008863482067).
+![[Pasted image 20260529114154.png]]
+
 ----
 # What is context in ML?
 In modern ML systems, context is everything the model sees at inference time.
@@ -24,3 +27,5 @@ From studies on needle-in-a-haystack style benchmarking of Anthropic, they uncov
 4. **Context compression:** fit more useful information into limited token space.
 5. **Context sequencing:** Ordering matter for LLM. Should include instruction and rule first. The order should be the most relevant from top to bottom.
 6. **Tool and memory integration:** 
+
+*Reference: https://www.ibm.com/think/topics/context-engineering
