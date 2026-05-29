@@ -1,6 +1,5 @@
-[[Promt engineering]]
-- What ..
-[[RAG & MCP]]
-- Diagram to show how RAG, MCP work
+[[I. Prompt Engineering]]
+[[II. RAG (Retrieval Augmented Generation)]]
+[[III. MCP (Model Context Protocol)]]
 
 
