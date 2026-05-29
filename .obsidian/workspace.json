@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le Ky Ba.md",
+                "file": "LEKYBA/poc/Code example simulating how Gen AI generate text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Le Ky Ba"
+              "title": "Code example simulating how Gen AI generate text"
             }
           }
         ]
@@ -210,8 +210,15 @@
   },
   "active": "299349a0347819cf",
   "lastOpenFiles": [
-    "Transformer.md",
-    "Pasted image 20260527144023.png",
+    "XUANNGUYEN",
+    "LEKYBA/raw/Pasted image 20260527144023.png",
+    "LEKYBA/How does AI work.md",
+    "LEKYBA/Context Engineering.md",
+    "LEKYBA/paraphrase/Transformer.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Le Ky Ba.md",
+    "XUANNGUYEN/nguyen-raw/Prompt Engineering vs Context Engineering vs Harness Engineering What's the Difference in 2026.md",
     "LEKYBA/raw/What is a Neural Network.md",
     "LEKYBA/raw/What is LLMs - Cloudflare.md",
     "LEKYBA/raw/What is LLM - Large Language Models Explained - AWS.md",
@@ -230,13 +237,6 @@
     "LEKYBA/poc/Code example simulating how Gen AI generate text.md",
     "LEKYBA/paraphrase/Token.md",
     "LEKYBA/paraphrase/Neurons.md",
-    "LEKYBA/paraphrase/Neural Network.md",
-    "LEKYBA/paraphrase/Machine Learning.md",
-    "LEKYBA/paraphrase/Hallucination.md",
-    "LEKYBA/paraphrase/Generative AI.md",
-    "LEKYBA/paraphrase/Embedding.md",
-    "LEKYBA/paraphrase/Deep learning.md",
-    "LEKYBA/paraphrase/Context window.md",
     "LEKYBA/raw",
     "LEKYBA/poc",
     "LEKYBA/paraphrase",
